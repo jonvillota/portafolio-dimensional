@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: auto;
+    background: black;
+}
+
+.progress{
+    justify-content: left;
+    margin-top: 20px;
+}
+
+.h1h{
+    display: flex;   
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+    height: 30px;
+    color: #5485B7;
+}
+
+h1{
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+    font-family: 'Open Sans', sans-serif;
+    height: 20px;
+    color: rgb(255, 255, 255)
+}
+
+h2{
+    display: flex;   
+    justify-content: left;
+    font-family: 'Open Sans', sans-serif;
+    height: 20px;
+    color: rgb(0, 0, 0)
+
+}
+a:visited{
+    color: white
+}
