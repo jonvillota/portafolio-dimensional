@@ -96,21 +96,18 @@ button{
     height: 40px;
 }
 
-#marco{
-	position: absolute;
-    z-index: 1;
-}
 
-#fotojhon{
-	position: absolute;
-    z-index: 2;	
+#fotojhonv{
+    position: absolute;
+    margin-top: 60px;  
 }
 
 .position{
     display: flex;
     justify-content: center;
     align-items: flex-start;
-    padding: 0px;     
+    padding: 0px;
+   
 }
 
 .caja4{
@@ -130,7 +127,8 @@ button{
     background: linear-gradient(circle, rgba(51,51,51,1) 0%, rgba(0,0,0,1) 100%);
     height: 2000px;
     padding: 0px;
-    border: none;  
+    border: none; 
+    
 }
 
 .Boton{
@@ -146,6 +144,7 @@ h1{
     color: #5485B7;
     margin: 20px;
 }
+
 
 h1:hover{
     font-family: 'Open Sans', sans-serif;
@@ -265,14 +264,14 @@ h1:hover{
     display: flex;
     justify-content: center;
     margin-left: 100px;
-    margin-top: 100px;
+    margin-top: 60px;
 }
 
 .técnicas{
     display: flex;
     justify-content: center;
     margin-left: 100px;
-    margin-top: 100px;
+    margin-top: 60px;
 }
 
 .tec{
@@ -346,6 +345,14 @@ h1:hover{
     margin-right: 10px;
     float: left;
 }
+#play{
+    display: flex;
+    justify-content: center; 
+    margin-top: 30px;
+    margin-left: 510px;
+   
+}
+
 
 .caja7{
     display: flex;
@@ -563,6 +570,7 @@ a:visited{
 
 
 
+
    
     
 
@@ -570,4 +578,4 @@ a:visited{
     
     
 
-    
+ 
